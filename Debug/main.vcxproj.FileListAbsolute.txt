@@ -1,0 +1,2 @@
+C:\Users\matiz\source\repos\main\Debug\main.exe
+C:\Users\matiz\source\repos\main\Debug\main.pdb

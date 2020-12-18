@@ -1,0 +1,4 @@
+﻿  population.cpp
+C:\Users\matiz\source\repos\main\population.cpp(12,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\matiz\source\repos\main\population.cpp(59,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  main.vcxproj -> C:\Users\matiz\source\repos\main\Debug\main.exe
