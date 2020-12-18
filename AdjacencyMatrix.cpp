@@ -10,7 +10,7 @@
 #include "AdjacencyMatrix.h"
 
 using namespace std;
-
+//test message
 
 AdjacencyMatrix::AdjacencyMatrix(int n, int saturation) {
 	string path = "./graphs/N" + to_string(n) + "_E" + to_string(saturation) + ".txt";
